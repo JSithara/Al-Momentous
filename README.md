@@ -5,7 +5,7 @@ Group members - Sithara Jayachandran B00824470,Miles Redgate B00821049, Aishwary
 Project Name- Al-momentous  - An Alzheimer's helper App
 
 
-**Project Summary **
+**Project Summary**
 
 The project is aimed to build simple and easy to use app that helps alzheimer's patients remember events,
 help patients stay connected and engaged with friends and family, and recognize faces of friends.
@@ -17,7 +17,7 @@ aimed to improve our prototype for the second evaluation based off of the feedba
 study.
 
 
-**Prototype **
+**Prototype**
 
 L0w fidelity Prototype- Paper prototype - Paper and pen
 Medium Fidelity Prototypes - Microsoft Word
@@ -40,7 +40,7 @@ Identify: Patients are often faced with the difficulty of recognizing people aro
 feature helps in taking pictures which in turn would recognize the person with the help of facial
 recognition technology.
 
-Help Line: Help feature has a list of emergency contact lists like 91, counselling services,
+Help Line: Help feature has a list of emergency contact lists like 911, counselling services,
 doctor’s number etc.
 
 
