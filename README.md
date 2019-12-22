@@ -47,6 +47,18 @@ Help Line: Help feature has a list of emergency contact lists like 911, counsell
 doctor’s number etc.
 
 
+**Evaluation Of Prototype**
+Users found a few issues with our first prototype. However,
+none of them were truly app-breaking, based off of feedback
+on how difficult the requested tasks were easy to complete.
+Notable issues highlighted were overlap between creating an
+event and a reminder, potential confusion when accessing
+emergency but being taken to the contacts page (especially
+in a high stress emergency situation). Despite these issues,
+users rated the potential usefulness of our app fairly well
+(average of 3.7 out of 5).
+
+
 
 
 
