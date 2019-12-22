@@ -48,6 +48,7 @@ doctor’s number etc.
 
 
 **Evaluation Of Prototype**
+
 Users found a few issues with our first prototype. However,
 none of them were truly app-breaking, based off of feedback
 on how difficult the requested tasks were easy to complete.
@@ -59,11 +60,31 @@ users rated the potential usefulness of our app fairly well
 (average of 3.7 out of 5).
 
 **Prototype Improvements**
+
 Based on the evaluation of our initial prototype we decided
 to  combine events and reminders, make the emergency button on the home page
 link to a separate page with emergency numbers, and add
 links between a Person’s page and their corresponding
 Contacts page (and vice versa).
+
+
+
+**Future Work**
+
+Moving forward we will have to consider how to handle
+notifications with our app, trying to strike a balance
+between allowing those who know/remember
+notifications to have easier simpler actions and those don’t
+be able to figure out what to do with them. Currently, the
+mobile app is designed to cater to the Alzheimer patients
+indirectly, such that caretakers are operating the mobile
+app for setting up the upcoming events and other
+reminders to assist the patients. As future work, we plan
+to create a sister app that caretakers could link to create
+these reminders, contacts and info on loved ones.
+
+
+
 
 
 
