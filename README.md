@@ -58,6 +58,13 @@ in a high stress emergency situation). Despite these issues,
 users rated the potential usefulness of our app fairly well
 (average of 3.7 out of 5).
 
+**Prototype Improvements**
+Based on the evaluation of our initial prototype we decided
+to  combine events and reminders, make the emergency button on the home page
+link to a separate page with emergency numbers, and add
+links between a Person’s page and their corresponding
+Contacts page (and vice versa).
+
 
 
 
