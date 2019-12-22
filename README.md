@@ -1,11 +1,11 @@
-Team -Absolute contagious
+**Team -Absolute contagious**
 
 Group members - Sithara Jayachandran B00824470,Miles Redgate B00821049, Aishwarya Narayanan B00820313,Vishaali Kadambur Srikanth B00705540
 
-Project Name- Al-momentous  - An alzheimer's heler App'
+Project Name- Al-momentous  - An Alzheimer's helper App
 
 
-Project Summary 
+**Project Summary **
 
 The project is aimed to build simple and easy to use app that helps alzheimer's patients remember events,
 help patients stay connected and engaged with friends and family, and recognize faces of friends.
@@ -17,19 +17,34 @@ aimed to improve our prototype for the second evaluation based off of the feedba
 study.
 
 
-Analysis:
-A couple notable trends that can be observed right away from, there’s a lot of mental model overlap
-in our app, notably events and reminders, people and contacts and emergency and contact.
-However, feedback on the usefulness of the app for those with alzheimer's was fairly high. Though
-due to concerns of ecological validity, this should be taken with a grain of salt.
-Looking at the flagged difficult tasks, both finding out who uncle ben is and creating a reminder
-could both be due to overlap mentioned earlier, though having trouble with notifications different
-from them. Though the reasons for this is unknown, it could be that the notifications do not contain
-enough info in them, but it could also be an artifact of the study medium, perhaps on an actual
-smartphone people would have more context knowledge of how to interact with the notification.
-Identify was noted as not being clear what it was for from the home screen, this is a problem
-shared with both people and contacts as since they overlap in participants mental models, the
-distinction between them is not clear right away. Unfortunately we do not feel there is much more 
+**Prototype **
 
-we can do to separate these from the home screen. However, we feel that it will be obvious what
-identify is for (or not for) when users load up that feature and their camera turns on. 
+L0w fidelity Prototype- Paper prototype - Paper and pen
+Medium Fidelity Prototypes - Microsoft Word
+High fidelity Prototype - Smart Draw  andf Figma
+
+The home screen has the following features:
+
+Photos: Have all the photos of their loved ones and friends. The photos will be tagged with the
+names of friends. The pictures are grouped by a person by using facial recognition. These
+photos could also be shared by friends and family with one tap as they join the app’s circle
+
+Events: This consists of the date, time and the upcoming events of the day. This helps the user
+remember various activities and appointments. The feature will be managed by the caregiver
+or the loved ones who could add events to the calendar.
+
+Contacts: Helps patients who have difficulty remembering phone numbers. It would have a
+picture of the person and the relation to the patient beneath it.
+
+Identify: Patients are often faced with the difficulty of recognizing people around them. This
+feature helps in taking pictures which in turn would recognize the person with the help of facial
+recognition technology.
+
+Help Line: Help feature has a list of emergency contact lists like 91, counselling services,
+doctor’s number etc.
+
+
+
+
+
+
