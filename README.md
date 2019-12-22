@@ -83,6 +83,29 @@ reminders to assist the patients. As future work, we plan
 to create a sister app that caretakers could link to create
 these reminders, contacts and info on loved ones.
 
+**Sources**
+
+1.Order Effects: Definition, Examples and Solutions - Statistics How To. Statistics How To,
+2019. https://www.statisticshowto.datasciencecentral.com/order-effects/.
+2.Studies, H. How to Determine the Right Number of Participants for Usability Studies :UX
+matters. Uxmatters.com, 2019. https://www.uxmatters.com/mt/archives/2016/01/how-todetermine-the-right-number-of-participants-for-usability-studies.php.
+
+3.Hart, C. and Hart, C. Quote: Alzheimer's Is A Thief. Alzheimers.net, 2019.
+https://www.alzheimers.net/quote-alzheimers-is-a-thief/.
+
+4.Timeless - A Mobile App for Alzheimer's Patients. Indiegogo, 2019.
+https://www.indiegogo.com/projects/timeless-a-mobile-app-for-alzheimer-s-patients#/.
+
+5.Radebaugh, T. and Ward-Robinson, J. Cultural Diversity and Alzheimer Disease:
+Introduction. Alzheimer Disease & Associated Disorders 16, (2002), S41-S42.
+
+6.Ulrich, J. Alzheimer changes in nondemented patients younger than sixty-five: Possible early
+stages of Alzheimer's disease and senile dementia of Alzheimer type. Annals of Neurology 17,
+3 (1985), 273-277.
+
+7.What Are the 7 Stages of Alzheimer’s Disease? Alzheimers.net, 2019.
+https://www.alzheimers.net/stages-of-alzheimers-disease/.
+
 
 
 
