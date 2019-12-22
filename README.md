@@ -5,7 +5,7 @@ Group members - Sithara Jayachandran B00824470 (st962427@dal.ca),Miles Redgate B
 Project Name- Al-momentous  - An Alzheimer's helper App
 
 
-Place  - Dalhousie University
+Place  - Dalhousie University,Halifax
 
 
 **Project Summary**
