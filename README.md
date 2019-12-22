@@ -1,6 +1,6 @@
 **Team -Absolute contagious**
 
-Group members - Sithara Jayachandran B00824470,Miles Redgate B00821049, Aishwarya Narayanan B00820313,Vishaali Kadambur Srikanth B00705540
+Group members - Sithara Jayachandran B00824470 (st962427@dal.ca),Miles Redgate B00821049 (miles.redgate@dal.ca), Aishwarya Narayanan B00820313 (aishwarya.narayanan@dal.ca),Vishaali Kadambur Srikanth B00705540(vs255542@dal.ca)
 
 Project Name- Al-momentous  - An Alzheimer's helper App
 
