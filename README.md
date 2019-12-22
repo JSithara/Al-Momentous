@@ -3,6 +3,7 @@
 Group members - Sithara Jayachandran B00824470,Miles Redgate B00821049, Aishwarya Narayanan B00820313,Vishaali Kadambur Srikanth B00705540
 
 Project Name- Al-momentous  - An Alzheimer's helper App
+Place  - Dalhousie University
 
 
 **Project Summary**
